@@ -191,7 +191,7 @@
                     </div>
                     <div class="hero__item set-bg" data-setbg="{{asset('assets/frontend/coklat/img/hero/banner.jpg')}}">
                         <div class="hero__text">
-                            <h2>TEST</h2>
+                            <h2>Azzul Coklat</h2>
                             <br>
                             <br>
                             <br>
